@@ -1,0 +1,4 @@
+{
+    "quiz_path":"data/quiz.json",
+    "questions_path":"data/questions.json"
+}
